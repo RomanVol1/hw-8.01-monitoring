@@ -27,7 +27,8 @@
 
 
 Нажмите на синюю кнопку "Создать ВМ"
-(https://github.com/RomanVol1/hw-8.01-monitoring/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2006-07-2023%20174412.png)
+![create_vm](https://github.com/RomanVol1/hw-8.01-monitoring/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2006-07-2023%20174412.png)
+
 
 Задайте имя дашборда, если появится окно ввода имени дашборда
 
