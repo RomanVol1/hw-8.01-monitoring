@@ -31,7 +31,7 @@
 
 
 Задайте имя дашборда, если появится окно ввода имени дашборда
-
+![dashboard](https://github.com/RomanVol1/hw-8.01-monitoring/blob/main/1st_dashboard.png)
 
 
 ---
